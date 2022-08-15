@@ -66,7 +66,7 @@ function App() {
           </div>
         </div>
       </div>
-      <span class="coder"><a href='https://github.com/ShivaAbf/weather-react-project' >open sorce code</a> by shiva Aboufazeli</span>
+      <span class="coder"><a href='https://github.com/ShivaAbf/weather-react-app' >open sorce code</a> by shiva Aboufazeli</span>
     </div>
   </div>
   );
