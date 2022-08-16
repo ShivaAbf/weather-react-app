@@ -5,10 +5,13 @@
 
 body{
   font-family: Cerebri-Sans,Helvetica,Arial,sans-serif;
+
 }
 .head {
     border: 3px solid #4f9452;
     background-color: #fafffa;
+    max-width: 700px;
+    margin: 0 auto;
    
   }
   .city {

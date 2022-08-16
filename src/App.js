@@ -13,15 +13,15 @@ function App() {
     <div className="container ">
       <div className="head mt-4 weather-app">
         <div className="row">
-          <form className="mx-3 my-5">
+          <form className=" my-5">
             <div className="row">
               <div className="col-8">
                 <input
-                  className="form-control"
+                  className="form-control mx-3"
                   type="text"
                   id="enter-city"
                   placeholder="Enter a city.."
-                  autocomplete="off"
+                  autoComplete
                 />
               </div>
               <div className="col-4">
@@ -66,7 +66,7 @@ function App() {
           </div>
         </div>
       </div>
-      <span class="coder"><a href='https://github.com/ShivaAbf/weather-react-app' >open sorce code</a> by shiva Aboufazeli</span>
+      <span className="coder"><a href='https://github.com/ShivaAbf/weather-react-app`' >open sorce code</a> by shiva Aboufazeli</span>
     </div>
   </div>
   );
